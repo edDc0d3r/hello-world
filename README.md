@@ -6,5 +6,7 @@ I'm just trying to learn how to use GitHub by following the Hello World GitHub G
 
 These additional sentences are post-creation of the branch readme-edits. It's been suggested I should write about myself but I'm not going to do that, and no one can really make me do that. 
 
+Wow, I'm back after a long break from Github. Today is the 20th anniversary of the 9/11 attack.
+
 Goodbye!
 
